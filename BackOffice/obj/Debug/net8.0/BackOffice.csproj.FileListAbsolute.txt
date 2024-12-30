@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.AssemblyInfo.cs
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\b2bsolution\BackOffice\obj\Debug\net8.0\BackOffice.sourcelink.json

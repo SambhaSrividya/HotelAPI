@@ -1,0 +1,239 @@
+[
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.CompanyDetailsController",
+    "Method": "CreateCompanyDetails",
+    "RelativePath": "api/CompanyDetails/AddCompanyDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyDetails",
+        "Type": "BackOffice.Masters.Models.CompanyDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.CompanyDetailsController",
+    "Method": "DeleteCompanyDetails",
+    "RelativePath": "api/CompanyDetails/DeleteCompanyDetails/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.CompanyDetailsController",
+    "Method": "GetAllCompanyDetails",
+    "RelativePath": "api/CompanyDetails/GetAllCompanyDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.CompanyDetailsController",
+    "Method": "GetCompanyDetails",
+    "RelativePath": "api/CompanyDetails/GetCompanyDetailsById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.CompanyDetailsController",
+    "Method": "UpdateCompanyDetails",
+    "RelativePath": "api/CompanyDetails/UpdateCompanyDetails/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "companydetails",
+        "Type": "BackOffice.Masters.Models.CompanyDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.RolesController",
+    "Method": "CreateRoles",
+    "RelativePath": "api/Roles/AddRoles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roles",
+        "Type": "BackOffice.Masters.Models.Roles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.RolesController",
+    "Method": "DeleteRoles",
+    "RelativePath": "api/Roles/DeleteRoles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.RolesController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Roles/GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.RolesController",
+    "Method": "GetRolesById",
+    "RelativePath": "api/Roles/GetRolesById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.RolesController",
+    "Method": "UpdateRoles",
+    "RelativePath": "api/Roles/UpdateRoles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "roles",
+        "Type": "BackOffice.Masters.Models.Roles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.ServicesController",
+    "Method": "CreateServices",
+    "RelativePath": "api/Services/AddServices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "services",
+        "Type": "BackOffice.Masters.Models.Services",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.ServicesController",
+    "Method": "DeleteServices",
+    "RelativePath": "api/Services/DeleteServices/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.ServicesController",
+    "Method": "GetAllServices",
+    "RelativePath": "api/Services/GetAllServices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.ServicesController",
+    "Method": "GetServicesById",
+    "RelativePath": "api/Services/GetServicesById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackOffice.Masters.Controllers.ServicesController",
+    "Method": "UpdateServices",
+    "RelativePath": "api/Services/UpdateServices/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "services",
+        "Type": "BackOffice.Masters.Models.Services",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
